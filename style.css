@@ -572,7 +572,7 @@ footer p{
 /* Transparent Sign In Card */
 .signin-container{
     position:relative;
-    width:28%;
+    width:80%;
     padding:40px;
     background:rgba(255,255,255,0.05);
     border:1px solid rgba(255,255,255,0.2);
